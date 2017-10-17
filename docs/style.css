@@ -1,0 +1,30 @@
+
+/* ELEMENT SELECTORS */
+p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+/* CLASS SELECTORS */
+.borda {
+    margin: 0 auto;
+    border: 1px solid #000000;
+}
+
+.footer-txt {
+	color: white;
+}
+/* .jumbotron {
+    background-image: ("900x300.png");
+    background-color: transparent;
+} */
+
+a.ft:hover {
+	color: gray;
+	font-size: 115%;
+}
+
+footer {
+	background-color: #005ca1;
+}
+
